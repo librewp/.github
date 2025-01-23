@@ -3,21 +3,19 @@
 <br>
 
 <a href="https://librewp.org">
-  <img src="https://avatars.githubusercontent.com/u/185062558?s=200&v=4" alt="iamprogrammerlk" width="200">
+  <img src="https://avatars.githubusercontent.com/u/185062558?s=200&v=4" alt="librewp_logo" width="200">
 </a>
 
 <br>
 <br>
 
-# LibreWP
-
 ## Empower your projects with a cutting-edge, community-driven, open-source content management system evolved from WordPress.</h4>
 
 <br>
 
-#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+---
 
-<br>
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
 [home]: https://librewp.org
 [blog]: https://blog.librewp.org
@@ -29,9 +27,11 @@
 [linkedin]: https://linkedin.com/company/librewp
 [buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
 
-</div>
-
 ---
+
+<br>
+
+</div>
 
 <!-- <br> -->
 
