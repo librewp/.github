@@ -5,37 +5,36 @@
 
 <br>
 
-<a href="https://github.com/iamprogrammerlk">
-  <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+<a href="https://librewp.org">
+  <img src="https://avatars.githubusercontent.com/u/185062558?s=200&v=4" alt="iamprogrammerlk" width="200">
 </a>
 
 <br>
 <br>
 
-# I am Programmer
+# LibreWP
 
-## Programming is like sex, I can't make a mistake.</h4>
+## Empower your projects with a cutting-edge, community-driven, open-source content management system evolved from WordPress.</h4>
 
 <br>
 
-<!-- #### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
 
-<br> -->
+<br>
 
-<!--
-[home]: https://iamprogrammer.lk
-[blog]: https://blog.iamprogrammer.lk
+[home]: https://librewp.org
+[blog]: https://blog.librewp.org
 [sponsors]: https://github.com/sponsors/iamprogrammerlk
-[discussions]: https://github.com/iamprogrammerlk/iamprogrammerlk/discussions
-[github]: https://github.com/iamprogrammerlk
-[youtube]: https://youtube.com/@iamprogrammerlk
-[x]: https://x.com/iamprogrammerlk
-[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
-[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk -->
+[discussions]: https://github.com/librewp/librewp/discussions
+[github]: https://github.com/librewp
+[youtube]: https://youtube.com/@librewp
+[x]: https://x.com/librewp
+[linkedin]: https://linkedin.com/company/librewp
+[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
 
 </div>
 
-<!-- --- -->
+---
 
 <!-- <br> -->
 
