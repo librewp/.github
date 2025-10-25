@@ -4,35 +4,35 @@
 
 <div align="center" style="text-align: center;">
 
-  <a href="https://github.com/{{ORGANIZATION_USERNAME}}">
-    <img src="https://{{ORGANIZATION_PROFILE_PICTURE_URL}}" alt="{{ORGANIZATION_NAME}}" width="200">
+  <a href="https://librewp.org">
+    <img src="https://avatars.githubusercontent.com/u/185062558?s=200&v=4" alt="LibreWP" width="200">
   </a>
 
-<br><br>
+<!-- <br><br>
 
   <h1>{{ORGANIZATION_TAGLINE}}</h1>
 
   <br>
 
   <h2>
-    <a href="https://{{URL}}">🏠 Home</a> 
-    <a href="https://{{URL}}">📚 Read the Docs</a> 
-    <a href="https://{{URL}}">🫅 Be a Sponsor</a> 
-    <a href="https://{{URL}}">🛟 Get Support</a> 
-    <a href="https://{{URL}}">☎️ Contact Us</a> 
-    <a href="https://{{URL}}">♥️ Join the Community</a> 
-  </h2>
+    <a href="https://{{URL}}">🏠 Home</a>
+    <a href="https://{{URL}}">📚 Read the Docs</a>
+    <a href="https://{{URL}}">🫅 Be a Sponsor</a>
+    <a href="https://{{URL}}">🛟 Get Support</a>
+    <a href="https://{{URL}}">☎️ Contact Us</a>
+    <a href="https://{{URL}}">♥️ Join the Community</a>
+  </h2> -->
 
 </div>
 
 <br><br><br><br>
 
-# 🚀 {{ORGANIZATION_NAME}}
+# 🚀 LibreWP
 
-Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedicated to
-{{BRIEF_MISSION_STATEMENT_OR_PURPOSE_OF_THE_ORGANIZATION}}.
+Empower your projects with a cutting-edge, community-driven, open-source content management system evolved from
+WordPress.
 
-<br><br>
+<!-- <br><br>
 
 # 🌟 About Us
 
@@ -44,9 +44,9 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
 - ## Our Vision:
 
-  {{YOUR_ORGANIZATIONS__VISION_STATEMENT}}
+  {{YOUR_ORGANIZATIONS__VISION_STATEMENT}} -->
 
-<br><br>
+<!-- <br><br>
 
 # 🛠️ What We Do
 
@@ -64,9 +64,9 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
 - ## 🤝 Community:
 
-  {{COMMUNITY_INITIATIVES_OR_SUPPORT}}
+  {{COMMUNITY_INITIATIVES_OR_SUPPORT}} -->
 
-<br><br>
+<!-- <br><br>
 
 # 🛠️ Technology Stack
 
@@ -80,7 +80,7 @@ Welcome to the official GitHub organization of {{ORGANIZATION_NAME}}! We're dedi
 
 ## Infrastructure
 
-- ### {{SAMPLE_INFRASTRUCTURE}}
+- ### {{SAMPLE_INFRASTRUCTURE}} -->
 
 <br><br>
 
@@ -98,7 +98,7 @@ We love contributions! Here's how you can help:
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
-<br><br>
+<!-- <br><br>
 
 # 📞 Connect With Us
 
@@ -114,7 +114,7 @@ We love contributions! Here's how you can help:
 
 - ### 🐦 X: [{{USERNAME}}][x]
 
-- ### 📹 YouTube: [{{USERNAME}}][youtube]
+- ### 📹 YouTube: [{{USERNAME}}][youtube] -->
 
 <br><br>
 
@@ -142,7 +142,7 @@ Please check individual repositories for specific licensing information.
 
 ---
 
-_Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
+_Made with ❤️ by [I am Programmer][lead_maintainer] and [The LibreWP Team][contributors]._
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
@@ -155,9 +155,9 @@ _Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_
 [youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
 [x]: https://x.com/{{ORGANIZATION_USERNAME}}
 [linkedin]: https://linkedin.com/company/{{ORGANIZATION_USERNAME}}
-[issues]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/issues
-[contributing]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/contributing.md
-[contributors]: https://github.com/{{ORGANIZATION_USERNAME}}/{{ORGANIZATION_USERNAME}}/graphs/contributors
-[documentation_repository]: https://github.com/{{ORGANIZATION_USERNAME}}/documentation
+[issues]: https://github.com/librewp/librewp/issues
+[contributing]: https://github.com/librewp/librewp/contributing.md
+[contributors]: https://github.com/librewp/librewp/graphs/contributors
+[documentation_repository]: https://github.com/librewp/documentation
 [donation]: https://github.com/sponsors/iamprogrammerlk
 [lead_maintainer]: https://github.com/iamprogrammerlk
