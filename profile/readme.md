@@ -98,23 +98,23 @@ We love contributions! Here's how you can help:
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
-<!-- <br><br>
+<br><br>
 
 # 📞 Connect With Us
 
-- ### 🌐 Website: [{{WEBSITE}}][website]
+- ### 🌐 Website: [librewp.org][website]
 
-- ### 📧 Email: [{{EMAIL}}][email]
+- ### 📧 Email: [contact@librewp.org][email]
 
-- ### 🏗️ Github: [{{USERNAME}}][github]
+- ### 🏗️ Github: [librewp][github]
 
-- ### 📚 Reddit: [{{USERNAME}}][reddit]
+- ### 📚 Reddit: [r/librewp][reddit]
 
-- ### 💼 LinkedIn: [{{USERNAME}}][linkedin]
+- ### 💼 LinkedIn: [company/librewp][linkedin]
 
-- ### 🐦 X: [{{USERNAME}}][x]
+- ### 🐦 X: [librewp][x]
 
-- ### 📹 YouTube: [{{USERNAME}}][youtube] -->
+- ### 📹 YouTube: [@librewp][youtube]
 
 <br><br>
 
@@ -148,13 +148,13 @@ _Made with ❤️ by [I am Programmer][lead_maintainer] and [The LibreWP Team][c
 
 <br><br><br><br>
 
-[website]: https://{{ORGANIZATION_WEBSITE}}
-[email]: mailto:contact@{{ORGANIZATION_WEBSITE}}
-[reddit]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
-[github]: https://github.com/{{ORGANIZATION_USERNAME}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[x]: https://x.com/{{ORGANIZATION_USERNAME}}
-[linkedin]: https://linkedin.com/company/{{ORGANIZATION_USERNAME}}
+[website]: https://librewp.org
+[email]: mailto:contact@librewp.org
+[reddit]: https://reddit.com/r/librewp
+[github]: https://github.com/librewp
+[youtube]: https://youtube.com/@librewp
+[x]: https://x.com/librewp
+[linkedin]: https://linkedin.com/company/librewp
 [issues]: https://github.com/librewp/librewp/issues
 [contributing]: https://github.com/librewp/librewp/contributing.md
 [contributors]: https://github.com/librewp/librewp/graphs/contributors
